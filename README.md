@@ -1,4 +1,4 @@
-#Electric Vehicle Population Registered in Washington Analysis Project Overview
+# Electric Vehicle Population Registered in Washington Analysis Project Overview
 
 As an intern, I developed a compelling Power BI dashboard to explore the Electric Vehicle (EV) population data in Washington State, utilizing a dataset obtained from the U.S. government's official catalog (https://catalog.data.gov/dataset/electric-vehicle-population-data). The dataset includes the following columns:
 
